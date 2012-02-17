@@ -10,5 +10,10 @@ recognised by [Ghostery](https://www.ghostery.com).
 
 # Usage
 * ./spider.coffee --help
+
 or, to use defaults:
+
 * ./spider.coffee 
+
+# Results
+* In ./results folder
